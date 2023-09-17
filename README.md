@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kampungkat
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on all things related to adtech
+- 💞️ I’m looking to collaborate on all things related to adtech - I'm working on a prebid fork right now.
 - 📫 How to reach me is a mystery which will be solved in its own time
 
 <!---
